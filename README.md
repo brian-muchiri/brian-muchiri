@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭  I’m a Software Engineer<br>👯 I specialise in full stack development<br>🤝  I’m looking for genuine opinions to my work<br>🌱 I’m currently doing projects<br>💬 Ask me about anything constractive<br>⚡ Fun fact
+🔭  I’m a Software Engineer<br>👯 I specialise in full stack development<br>🤝  I’m looking for genuine opinions to my work<br>🌱 I’m currently learning cloud computing with AWS <br>💬 Ask me about anything constractive<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
