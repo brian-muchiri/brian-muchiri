@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brian-muchiri&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-muchiri&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brian-muchiri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brian-muchiri&theme=radical&no-frame=true&no-bg=false&margin-w=4) -->
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=_brianmuchiri)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brian-muchiri&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=brian-muchiri&limit=5&theme=algolia&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=brian-muchiri&icon=0&color=11)](https://visitcount.itsvg.in)
